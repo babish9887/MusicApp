@@ -11,7 +11,9 @@
 .container{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(135deg, #d3d3d3, #49DBFB);
+    /* background: linear-gradient(135deg, #d3d3d3, #49DBFB); */
+    background: linear-gradient(135deg, #4E65FF, #92EFFD);
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,6 +29,7 @@
     display: flex;
     /* backdrop-filter: blur(50px); */
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+   
 }
 
 .box>.left{
@@ -45,7 +48,7 @@
 
 li{
     list-style: none;
-    width: 100%;
+    width: 90%;
     /* background-color: blanchedalmond; */
     padding: 10px 0 10px 10px;
     margin: 0 0 10px 25px;
@@ -64,13 +67,18 @@ li{
     width: 100%;
     height: 60px;
 }
+.middle{
+    /* background-color: red; */
+    margin: 20px 0;
+}
 
 .right> .middle> img{
-    width: 75%;
+    width: 60%;
     position: relative;
-    height: 75%;
+    height: 60%;
     left: 50%;
     transform: translateX(-50%);
+    border-radius: 50%;
 }
 
 
@@ -221,8 +229,42 @@ li{
 }
 
 
+.rotatelogo {
+    animation: rotate 12s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
 
 
+.star{
+    width: 24px;
+    height: 24px;
+    transform: translateX(-29px);
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+
+.sort{
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    background-color: transparent;
+    border-radius: 4px;
+    outline: none;
+    /* border: none; */
+    width: 90px;
+    height: 20px;
+    margin: 0 15px;
+    position: relative;
+    top: -5px;
+    border: 1px solid black
+}
 
 
   
