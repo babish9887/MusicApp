@@ -1,0 +1,20 @@
+.alert{
+    position: absolute;
+    top: 10px;
+    width: 60%;
+    min-width: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: abc 0.5s linear;
+    margin: 0;
+}
+
+@keyframes abc {
+    0%{
+        top: -100px;
+    }
+    100%{
+        top: 0px
+    }
+    
+}

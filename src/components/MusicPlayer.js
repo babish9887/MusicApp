@@ -14,12 +14,11 @@ export default function MusicPlayer () {
     const[volumeicon, setvolumeicon]=useState(faVolumeLow);
     const [timer, settimer]=useState(45);
     const [showtimer, setshowtimer]=useState(false);
-    
 
     //logic for Timer
     useEffect(() => {
         if ( timer > 0) {
-          const timerId = setTimeout(() => {
+            const timerId = setTimeout(() => {
             audioref.current.pause();
             setisplaying(false);
           }, timer * 60 * 1000);
@@ -51,6 +50,12 @@ export default function MusicPlayer () {
                 return{current: action.index}
 
             case "initialize":
+                if(audioref.current.paused){
+                    setisplaying(false);
+                }else{
+                    setisplaying(true);
+                }
+                setisplaying(true);
                 return {current: 0};
             default:
                 return state;
