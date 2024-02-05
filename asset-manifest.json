@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MusicApp/static/css/main.93ba0735.css",
+    "main.css": "/MusicApp/static/css/main.c165dc4f.css",
     "main.js": "/MusicApp/static/js/main.607de17a.js",
     "static/js/787.01890fb4.chunk.js": "/MusicApp/static/js/787.01890fb4.chunk.js",
     "static/media/timi-nai-hou.mp3": "/MusicApp/static/media/timi-nai-hou.c84a0362b6bc00ad87df.mp3",
@@ -12,6 +12,7 @@
     "static/media/Crush.mp3": "/MusicApp/static/media/Crush.f186e4cbc30bcc13578f.mp3",
     "static/media/Believer.mp3": "/MusicApp/static/media/Believer.5e6ec219eec3ed150c2a.mp3",
     "static/media/khamosiyan.mp3": "/MusicApp/static/media/khamosiyan.2bb9e1c64ced97333f5a.mp3",
+    "static/media/background.jpg": "/MusicApp/static/media/background.d3ae40c13f3dacca5d24.jpg",
     "static/media/crush.jpg": "/MusicApp/static/media/crush.393cb56bc1703d2f7f23.jpg",
     "static/media/phelinazarmein.jpg": "/MusicApp/static/media/phelinazarmein.895cbdaa32c529cdae38.jpg",
     "static/media/timinaihau.jpg": "/MusicApp/static/media/timinaihau.3bac130c582a09fd38aa.jpg",
@@ -22,12 +23,12 @@
     "static/media/merebina.jpg": "/MusicApp/static/media/merebina.a30fe6f0a18047d3a1c2.jpg",
     "static/media/seeyouagain.png": "/MusicApp/static/media/seeyouagain.c0ea8f4922c7dc776559.png",
     "index.html": "/MusicApp/index.html",
-    "main.93ba0735.css.map": "/MusicApp/static/css/main.93ba0735.css.map",
+    "main.c165dc4f.css.map": "/MusicApp/static/css/main.c165dc4f.css.map",
     "main.607de17a.js.map": "/MusicApp/static/js/main.607de17a.js.map",
     "787.01890fb4.chunk.js.map": "/MusicApp/static/js/787.01890fb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93ba0735.css",
+    "static/css/main.c165dc4f.css",
     "static/js/main.607de17a.js"
   ]
 }
