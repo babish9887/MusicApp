@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MusicApp/static/css/main.93ba0735.css",
+    "main.js": "/MusicApp/static/js/main.607de17a.js",
+    "static/js/787.01890fb4.chunk.js": "/MusicApp/static/js/787.01890fb4.chunk.js",
+    "static/media/timi-nai-hou.mp3": "/MusicApp/static/media/timi-nai-hou.c84a0362b6bc00ad87df.mp3",
+    "static/media/phelinazar.mp3": "/MusicApp/static/media/phelinazar.b3e48554b581828790c6.mp3",
+    "static/media/the_monster.mp3": "/MusicApp/static/media/the_monster.9f093410fda5cfecc10a.mp3",
+    "static/media/Mere-Bina.mp3": "/MusicApp/static/media/Mere-Bina.5350f57263f95620474b.mp3",
+    "static/media/chainsmoker.mp3": "/MusicApp/static/media/chainsmoker.ce2a5066c70887e5968a.mp3",
+    "static/media/See-You-Again.mp3": "/MusicApp/static/media/See-You-Again.0e70a36bd17eecf6fd21.mp3",
+    "static/media/Crush.mp3": "/MusicApp/static/media/Crush.f186e4cbc30bcc13578f.mp3",
+    "static/media/Believer.mp3": "/MusicApp/static/media/Believer.5e6ec219eec3ed150c2a.mp3",
+    "static/media/khamosiyan.mp3": "/MusicApp/static/media/khamosiyan.2bb9e1c64ced97333f5a.mp3",
+    "static/media/crush.jpg": "/MusicApp/static/media/crush.393cb56bc1703d2f7f23.jpg",
+    "static/media/phelinazarmein.jpg": "/MusicApp/static/media/phelinazarmein.895cbdaa32c529cdae38.jpg",
+    "static/media/timinaihau.jpg": "/MusicApp/static/media/timinaihau.3bac130c582a09fd38aa.jpg",
+    "static/media/closer.jpg": "/MusicApp/static/media/closer.e3951e2e3f326e08e643.jpg",
+    "static/media/khamosiyan.jpg": "/MusicApp/static/media/khamosiyan.a7073784f32bd4bb27ad.jpg",
+    "static/media/themonster.jpg": "/MusicApp/static/media/themonster.00fe7ffb308512ed5f9b.jpg",
+    "static/media/beliver.jpg": "/MusicApp/static/media/beliver.be8b34e2f562e8fa3a46.jpg",
+    "static/media/merebina.jpg": "/MusicApp/static/media/merebina.a30fe6f0a18047d3a1c2.jpg",
+    "static/media/seeyouagain.png": "/MusicApp/static/media/seeyouagain.c0ea8f4922c7dc776559.png",
+    "index.html": "/MusicApp/index.html",
+    "main.93ba0735.css.map": "/MusicApp/static/css/main.93ba0735.css.map",
+    "main.607de17a.js.map": "/MusicApp/static/js/main.607de17a.js.map",
+    "787.01890fb4.chunk.js.map": "/MusicApp/static/js/787.01890fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ba0735.css",
+    "static/js/main.607de17a.js"
+  ]
+}
